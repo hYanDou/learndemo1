@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 add merge
+fixed bug fixed bug  修啊修……终于修好了
